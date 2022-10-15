@@ -1,2 +1,2 @@
 # password_genarator
-a password genarator which you can choose the lenght of your password
+a password genarator which you can choose the length of your password
